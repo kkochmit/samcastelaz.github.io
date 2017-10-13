@@ -26,6 +26,10 @@ var quotes = [
 	{
 		orange: 'An orange requires no charging to be of use.',
 		iphone: 'An iPhone requires a different way of charging it every year.'
+	},
+	{	
+		orange: 'An Orange is actually a modified berry.',
+		iphone: 'An iPhone is actually a modified Blackberry.'
 	}
 ];
 
